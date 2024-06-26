@@ -1,0 +1,13 @@
+C:\Users\VIKTOR\source\repos\PPraktika\PPraktika\bin\Debug\PPraktika.exe.config
+C:\Users\VIKTOR\source\repos\PPraktika\PPraktika\bin\Debug\PPraktika.exe
+C:\Users\VIKTOR\source\repos\PPraktika\PPraktika\bin\Debug\PPraktika.pdb
+C:\Users\VIKTOR\source\repos\PPraktika\PPraktika\obj\Debug\PPraktika.csproj.AssemblyReference.cache
+C:\Users\VIKTOR\source\repos\PPraktika\PPraktika\obj\Debug\PPraktika.Form1.resources
+C:\Users\VIKTOR\source\repos\PPraktika\PPraktika\obj\Debug\PPraktika.Properties.Resources.resources
+C:\Users\VIKTOR\source\repos\PPraktika\PPraktika\obj\Debug\PPraktika.csproj.GenerateResource.cache
+C:\Users\VIKTOR\source\repos\PPraktika\PPraktika\obj\Debug\PPraktika.csproj.CoreCompileInputs.cache
+C:\Users\VIKTOR\source\repos\PPraktika\PPraktika\obj\Debug\PPraktika.exe
+C:\Users\VIKTOR\source\repos\PPraktika\PPraktika\obj\Debug\PPraktika.pdb
+C:\Users\VIKTOR\source\repos\PPraktika\PPraktika\bin\Debug\Newtonsoft.Json.dll
+C:\Users\VIKTOR\source\repos\PPraktika\PPraktika\bin\Debug\Newtonsoft.Json.xml
+C:\Users\VIKTOR\source\repos\PPraktika\PPraktika\obj\Debug\PPraktika.csproj.CopyComplete
